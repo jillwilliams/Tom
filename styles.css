@@ -1,0 +1,180 @@
+body {
+    font-family: "Windsong", cursive;
+    
+}
+#title {
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: white;
+    font-family: "Windsong", cursive;
+    text-align: center;
+    letter-spacing: 1rem;
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+
+}
+#skullOne {
+    width: 5%;
+    height: auto;
+    margin-top: 10px;
+    padding-top: 20px;
+
+}
+#skullTwo {
+    width: 5%;
+    height: auto;
+    margin-top: 10px;
+    padding-top: 20px;
+
+}
+ul {
+    padding: 10px 10px;
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: black;
+    /* margin-right: 0%;
+    margin-left: 0%; */
+    width: 99%;
+    height: auto;
+    text-align: center;
+    letter-spacing: 10px;
+    
+}
+a {
+    color: white;
+    list-style-type: none;
+    padding: 15px 15px;
+    text-decoration: none;
+    
+}
+/* opening photo */
+#dearSlim {
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+#tom {
+    text-align: center;
+    font-size: 1.5rem;
+}
+#slimVideo, #downVideo, #wayOffVideo, #waveVideo, #bestRapperEverVideo, #sadRappersVideo {
+    padding-left: 160px;
+    padding-right: 140px;
+    padding-top: 40px;
+}
+#slimTitle, #downTitle, #wayOffTitle, #waveTitle, #bestRapperEverTitle, #sadRappersTitle {
+    font-size: 1.7rem;
+
+}
+#slimDate, #downDate, #wayOffDate, #waveDate, #bestRapperEverDate, #sadRappersDate {
+    font-size: 1.2rem;
+}
+/* Merchandise Section */
+#merchText {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 40px 0px;
+}
+#merchTitle {
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: white;
+    font-family: "Windsong", cursive;
+    text-align: center;
+    letter-spacing: 1rem;
+    font-size: 1.5rem;
+    padding: 20px 20px;
+
+}
+#merchOne, #merchTwo, #merchThree {
+    width: 60%;
+    height: auto;
+    padding-top: 20px;
+}
+#merchFour {
+    width: 66%;
+    height: auto;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+#merchFive {
+    width: 60%;
+    height: auto;
+    padding-top: 20px;
+    padding-left: 120px;
+}
+#merchSix {
+    width: 60%;
+    height: auto;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+#gravestonesText, #fourAlbumText, #flowersText, #stripedText {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 40px;
+}
+#camoText, #bandanaText {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 130px;
+    padding-left: 100px;
+}
+#gravestonesPrice, #fourAlbumPrice, #flowersPrice {
+    font-size: 1.3rem;
+}
+#stripedPrice {
+    font-size: 1.3rem;
+    /* margin-left: 40px; */
+    text-align: center;
+}
+#camoPrice {
+    font-size: 1.3rem;
+    padding-left: 120px;
+    text-align: center;
+}
+#bandanaPrice {
+    font-size: 1.3rem;
+    padding-left: 120px; 
+    text-align: center;
+}
+/* About Us Section */
+#aboutUs {
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: 0.5rem;
+}
+/* Contact Us section */
+#contactUs {
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: 0.5rem;
+}
+#fbImage {
+    width: 100px;
+    height: auto;
+    margin-left: 47%;
+}
+/* fb words */
+#fbText {
+    font-size: 1.5rem;
+    text-align: center;
+}
+#instagramImage {
+    width: 80px;
+    height: auto;
+    margin-left: 48%;
+}
+/* inst words */
+#instagramText {
+    font-size: 1.5rem;
+    text-align: center;
+}
